@@ -1,4 +1,3 @@
-const express = require("express");
 const Subscriber = require("../../models/subscriber");
 
 const getSubscriber = async (req, res, next) => {
